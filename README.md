@@ -61,9 +61,9 @@ Pic.5
 Pic.6
 
 ### 3. Configure API key and Secret Key:
-3.1. Go to Payment Gateway terminal and Login as Merchant ().
+3.1. Go to Payment Gateway terminal and Login as Merchant.
 
-3.2. Create a new online story in Payment Gateway 
+3.2. Create a new online store in Payment Gateway 
 
 3.3. Create new API key.
 
