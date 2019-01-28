@@ -56,7 +56,7 @@ Pic.5
 
 2.2. Plugin is activated if you can see screen(Pic.6,[1]):
 
-![2019-01-25_14-43-37](https://user-images.githubusercontent.com/45132833/51767870-42b1e600-20e7-11e9-8a3d-b0d43d2027ab.png)
+![2019-01-28_17-09-46](https://user-images.githubusercontent.com/45132833/51845210-c3f3bd80-231f-11e9-8be9-636209554782.png)
 
 Pic.6
 
