@@ -14,27 +14,28 @@
 ## Installation
 
 ### 1. Install plugin:
-1.1. Plugin for WooCommerce is in  directory  src/payment-gateway/PaymentGateway/Plugins/WooCommercePlugin.zip 
+1.1. Download Plugin for WooCommerce as .zip file from (pic.1):
+https://github.com/graft-project/WooCommercePlugin
 
-1.2. Download plugin - you can download plugin two ways
+![2019-01-28_15-52-04](https://user-images.githubusercontent.com/45132833/51841063-6444e480-2316-11e9-92a2-886c08ef314d.png)
 
-**Via FTP**
+Pic.1
 
-1.2.1. Upload the **WooCommercePlugin.zip**  to the **/wp-content/plugins/** directory located on your server.
+Press button **“Clone or download” (Pic.1,[1])**  and choose button **“Download ZIP” (Pic.1,[2])**. Save WooCommercePlugin.zip file to directory in your computer. 
 
-**Via Wordpress Dashboard**
+1.2. Upload  plugin to Wordpress:
 
-1.2.2.  Log into your WordPress dashboard
+1.2.1.  Log into your WordPress dashboard
 
-1.2.3. Go to  WordPress Dashboard.
+1.2.2. Go to  WordPress Dashboard.
 
-1.2.4. Enter menu  _**Plugins -> Add New(Pic.2)**_:
+1.2.3. Enter menu  _**Plugins -> Add New(Pic.2)**_:
 
 ![2019-01-25_14-07-51](https://user-images.githubusercontent.com/45132833/51767866-42194f80-20e7-11e9-88e1-731850fad9d3.png)
 
 Pic.2
 
-1.2.5. Navigate **_ADD Plugins -> Add Plugin(Pic.3,1)_**:
+1.2.4. Navigate **_ADD Plugins -> Add Plugin(Pic.3,1)_**:
 
 ![2019-01-25_14-25-30](https://user-images.githubusercontent.com/45132833/51767868-42b1e600-20e7-11e9-8c8f-27f33bcb21a5.png)
 
