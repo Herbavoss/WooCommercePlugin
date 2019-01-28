@@ -6,9 +6,6 @@
 ## Prerequisites:
 - Your online store based on WordPress (you have to do it yourself)
 - SMTP Server credentials (you have to do it yourself)
-- GRAFT Node instance (you have to do it with: https://github.com/graft-project/graft-ng/wiki/Alpha-RTA-Testnet-Install-&-Usage-Instruction)
-> You don't need this step if you installed  it  for Exchange Broker
-- Exchange Broker (you have to do it with:  https://github.com/graft-project/exchange-broker/blob/master/README.md)
 - Payment Gateway (you have to do it with: https://github.com/graft-project/payment-gateway/blob/master/README.md )
 
 ## Installation
